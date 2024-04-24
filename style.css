@@ -1,0 +1,22 @@
+body {
+  background-color: beige;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+}
+
+p {
+  font-family: monospace;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+footer {
+  text-align: center;
+}
